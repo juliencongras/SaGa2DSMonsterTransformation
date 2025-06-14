@@ -8,7 +8,8 @@
             },
             "meat type C":{
                 "family": 2
-            }
+            },
+            "meat adjust": [18, -18]
         },
         "2":{
             "meat type A":{
@@ -19,7 +20,8 @@
             },
             "meat type C":{
                 "family": 5
-            }
+            },
+            "meat adjust": [21, -15]
         },
         "3":{
             "meat type A":{
@@ -30,7 +32,8 @@
             },
             "meat type C":{
                 "family": 8
-            }
+            },
+            "meat adjust": [24, -12]
         },
         "4":{
             "meat type A":{
@@ -41,7 +44,8 @@
             },
             "meat type C":{
                 "family": 11
-            }
+            },
+            "meat adjust": [27, -9]
         },
         "5":{
             "meat type A":{
@@ -52,7 +56,8 @@
             },
             "meat type C":{
                 "family": 14
-            }
+            },
+            "meat adjust": [30, -6]
         },
         "6":{
             "meat type A":{
@@ -63,7 +68,8 @@
             },
             "meat type C":{
                 "family": 17
-            }
+            },
+            "meat adjust": [33, -3]
         },
         "7":{
             "meat type A":{
@@ -74,7 +80,8 @@
             },
             "meat type C":{
                 "family": 20
-            }
+            },
+            "meat adjust": [-3, 33]
         },
         "8":{
             "meat type A":{
@@ -85,7 +92,8 @@
             },
             "meat type C":{
                 "family": 22
-            }
+            },
+            "meat adjust": [6, -30]
         },
         "9":{
             "meat type A":{
@@ -96,7 +104,8 @@
             },
             "meat type C":{
                 "family": 26
-            }
+            },
+            "meat adjust": [9, -27]
         },
         "10":{
             "meat type A":{
@@ -107,7 +116,8 @@
             },
             "meat type C":{
                 "family": 29
-            }
+            },
+            "meat adjust": [12, -24]
         },
         "11":{
             "meat type A":{
@@ -118,7 +128,8 @@
             },
             "meat type C":{
                 "family": 32
-            }
+            },
+            "meat adjust": [15, -21]
         },
         "12":{
             "meat type A":{
@@ -129,18 +140,8 @@
             },
             "meat type C":{
                 "family": 35
-            }
-        },
-        "extra":{
-            "meat type A":{
-                "family": 36
             },
-            "meat type B":{
-                "family": 37
-            },
-            "meat type C":{
-                "family": 38
-            }
+            "meat adjust": [18, -18]
         }
     }
 }
