@@ -1,0 +1,146 @@
+{"groups":{
+        "1":{
+            "meat type A":{
+                "family": 0
+            },
+            "meat type B":{
+                "family": 1
+            },
+            "meat type C":{
+                "family": 2
+            }
+        },
+        "2":{
+            "meat type A":{
+                "family": 3
+            },
+            "meat type B":{
+                "family": 4
+            },
+            "meat type C":{
+                "family": 5
+            }
+        },
+        "3":{
+            "meat type A":{
+                "family": 6
+            },
+            "meat type B":{
+                "family": 7
+            },
+            "meat type C":{
+                "family": 8
+            }
+        },
+        "4":{
+            "meat type A":{
+                "family": 9
+            },
+            "meat type B":{
+                "family": 10
+            },
+            "meat type C":{
+                "family": 11
+            }
+        },
+        "5":{
+            "meat type A":{
+                "family": 12
+            },
+            "meat type B":{
+                "family": 13
+            },
+            "meat type C":{
+                "family": 14
+            }
+        },
+        "6":{
+            "meat type A":{
+                "family": 15
+            },
+            "meat type B":{
+                "family": 16
+            },
+            "meat type C":{
+                "family": 17
+            }
+        },
+        "7":{
+            "meat type A":{
+                "family": 18
+            },
+            "meat type B":{
+                "family": 19
+            },
+            "meat type C":{
+                "family": 20
+            }
+        },
+        "8":{
+            "meat type A":{
+                "family": 21
+            },
+            "meat type B":{
+                "family": 22
+            },
+            "meat type C":{
+                "family": 22
+            }
+        },
+        "9":{
+            "meat type A":{
+                "family": 24
+            },
+            "meat type B":{
+                "family": 25
+            },
+            "meat type C":{
+                "family": 26
+            }
+        },
+        "10":{
+            "meat type A":{
+                "family": 27
+            },
+            "meat type B":{
+                "family": 28
+            },
+            "meat type C":{
+                "family": 29
+            }
+        },
+        "11":{
+            "meat type A":{
+                "family": 30
+            },
+            "meat type B":{
+                "family": 31
+            },
+            "meat type C":{
+                "family": 32
+            }
+        },
+        "12":{
+            "meat type A":{
+                "family": 33
+            },
+            "meat type B":{
+                "family": 34
+            },
+            "meat type C":{
+                "family": 35
+            }
+        },
+        "extra":{
+            "meat type A":{
+                "family": 36
+            },
+            "meat type B":{
+                "family": 37
+            },
+            "meat type C":{
+                "family": 38
+            }
+        }
+    }
+}
