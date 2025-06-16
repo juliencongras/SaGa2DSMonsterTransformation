@@ -1,4 +1,6 @@
-{"groups":{
+{"Monsters":{
+    "Slime":{},
+    
         "1":{
             "meat type A":{
                 "family": 0
@@ -81,7 +83,7 @@
             "meat type C":{
                 "family": 20
             },
-            "meat adjust": [-3, 33]
+            "meat adjust": [33, -3]
         },
         "8":{
             "meat type A":{
