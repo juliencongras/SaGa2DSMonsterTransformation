@@ -24,54 +24,246 @@
         "Family": 0,
         "Meat adjust": [18, -18]
     },
-    "Pansy":{},
-    "Poison Flower":{},
-    "Fire Flower":{},
-    "Sunflower":{},
-    "Black Rose":{},
-    "Hell Flower":{},
-    "Live Oak":{},
-    "Sequoia":{},
-    "Treant":{},
-    "Jumon Sugi":{},
-    "Yggdrasil":{},
-    "Dark Ash":{},
-    "Pebble":{},
-    "Stone":{},
-    "Rock":{},
-    "Boulder":{},
-    "Earth":{},
-    "Death Roc":{},
-    "Wood Golem":{},
-    "Clay Golem":{},
-    "Stone Golem":{},
-    "Iron Golem":{},
-    "Daimajin":{},
-    "Hell's Gatekeeper":{},
-    "Durandal":{},
-    "Caladbolg":{},
-    "Answerer":{},
-    "Mournblade":{},
-    "Stormbringer":{},
-    "Devil's Sword":{},
-    "Slime":{},
-    "Green Slime":{},
-    "Yellow Jelly":{},
-    "Blue Gel":{},
-    "Black Pudding":{},
-    "Super Slime":{},
-    "Dark Slime":{},
-    "Earthworm":{},
-    "Poison Worm":{},
-    "Lava Worm":{},
-    "Sand Worm":{},
-    "Abyss Worm":{},
-    "Big Eyeball":{},
-    "Gazer":{},
-    "Watcher":{},
-    "Evil Eye":{},
-    "Death Eye":{},
-    "Dark Eye":{},
+    "Pansy":{
+        "Type": "B",
+        "Family": 1,
+        "Meat adjust": [18, -18]
+    },
+    "Poison Flower":{
+        "Type": "B",
+        "Family": 1,
+        "Meat adjust": [18, -18]
+    },
+    "Fire Flower":{
+        "Type": "B",
+        "Family": 1,
+        "Meat adjust": [18, -18]
+    },
+    "Sunflower":{
+        "Type": "B",
+        "Family": 1,
+        "Meat adjust": [18, -18]
+    },
+    "Black Rose":{
+        "Type": "B",
+        "Family": 1,
+        "Meat adjust": [18, -18]
+    },
+    "Hell Flower":{
+        "Type": "B",
+        "Family": 1,
+        "Meat adjust": [18, -18]
+    },
+    "Live Oak":{
+        "Type": "C",
+        "Family": 2,
+        "Meat adjust": [18, -18]
+    },
+    "Sequoia":{
+        "Type": "C",
+        "Family": 2,
+        "Meat adjust": [18, -18]
+    },
+    "Treant":{
+        "Type": "C",
+        "Family": 2,
+        "Meat adjust": [18, -18]
+    },
+    "Jumon Sugi":{
+        "Type": "C",
+        "Family": 2,
+        "Meat adjust": [18, -18]
+    },
+    "Yggdrasil":{
+        "Type": "C",
+        "Family": 2,
+        "Meat adjust": [18, -18]
+    },
+    "Dark Ash":{
+        "Type": "C",
+        "Family": 2,
+        "Meat adjust": [18, -18]
+    },
+    "Pebble":{
+        "Type": "A",
+        "Family": 3,
+        "Meat adjust": [21, -15]
+    },
+    "Stone":{
+        "Type": "A",
+        "Family": 3,
+        "Meat adjust": [21, -15]
+    },
+    "Rock":{
+        "Type": "A",
+        "Family": 3,
+        "Meat adjust": [21, -15]
+    },
+    "Boulder":{
+        "Type": "A",
+        "Family": 3,
+        "Meat adjust": [21, -15]
+    },
+    "Earth":{
+        "Type": "A",
+        "Family": 3,
+        "Meat adjust": [21, -15]
+    },
+    "Death Roc":{
+        "Type": "A",
+        "Family": 3,
+        "Meat adjust": [21, -15]
+    },
+    "Wood Golem":{
+        "Type": "B",
+        "Family": 4,
+        "Meat adjust": [21, -15]
+    },
+    "Clay Golem":{
+        "Type": "B",
+        "Family": 4,
+        "Meat adjust": [21, -15]
+    },
+    "Stone Golem":{
+        "Type": "B",
+        "Family": 4,
+        "Meat adjust": [21, -15]
+    },
+    "Iron Golem":{
+        "Type": "B",
+        "Family": 4,
+        "Meat adjust": [21, -15]
+    },
+    "Daimajin":{
+        "Type": "B",
+        "Family": 4,
+        "Meat adjust": [21, -15]
+    },
+    "Hell's Gatekeeper":{
+        "Type": "B",
+        "Family": 4,
+        "Meat adjust": [21, -15]
+    },
+    "Durandal":{
+        "Type": "C",
+        "Family": 5,
+        "Meat adjust": [21, -15]
+    },
+    "Caladbolg":{
+        "Type": "C",
+        "Family": 5,
+        "Meat adjust": [21, -15]
+    },
+    "Answerer":{
+        "Type": "C",
+        "Family": 5,
+        "Meat adjust": [21, -15]
+    },
+    "Mournblade":{
+        "Type": "C",
+        "Family": 5,
+        "Meat adjust": [21, -15]
+    },
+    "Stormbringer":{
+        "Type": "C",
+        "Family": 5,
+        "Meat adjust": [21, -15]
+    },
+    "Devil's Sword":{
+        "Type": "C",
+        "Family": 5,
+        "Meat adjust": [21, -15]
+    },
+    "Slime":{
+        "Type": "A",
+        "Family": 6,
+        "Meat adjust": [24, -12]
+    },
+    "Green Slime":{
+        "Type": "A",
+        "Family": 6,
+        "Meat adjust": [24, -12]
+    },
+    "Yellow Jelly":{
+        "Type": "A",
+        "Family": 6,
+        "Meat adjust": [24, -12]
+    },
+    "Blue Gel":{
+        "Type": "A",
+        "Family": 6,
+        "Meat adjust": [24, -12]
+    },
+    "Black Pudding":{
+        "Type": "A",
+        "Family": 6,
+        "Meat adjust": [24, -12]
+    },
+    "Super Slime":{
+        "Type": "A",
+        "Family": 6,
+        "Meat adjust": [24, -12]
+    },
+    "Dark Slime":{
+        "Type": "A",
+        "Family": 6,
+        "Meat adjust": [24, -12]
+    },
+    "Earthworm":{
+        "Type": "B",
+        "Family": 7,
+        "Meat adjust": [24, -12]
+    },
+    "Poison Worm":{
+        "Type": "B",
+        "Family": 7,
+        "Meat adjust": [24, -12]
+    },
+    "Lava Worm":{
+        "Type": "B",
+        "Family": 7,
+        "Meat adjust": [24, -12]
+    },
+    "Sand Worm":{
+        "Type": "B",
+        "Family": 7,
+        "Meat adjust": [24, -12]
+    },
+    "Abyss Worm":{
+        "Type": "B",
+        "Family": 7,
+        "Meat adjust": [24, -12]
+    },
+    "Big Eyeball":{
+        "Type": "C",
+        "Family": 8,
+        "Meat adjust": [24, -12]
+    },
+    "Gazer":{
+        "Type": "C",
+        "Family": 8,
+        "Meat adjust": [24, -12]
+    },
+    "Watcher":{
+        "Type": "C",
+        "Family": 8,
+        "Meat adjust": [24, -12]
+    },
+    "Evil Eye":{
+        "Type": "C",
+        "Family": 8,
+        "Meat adjust": [24, -12]
+    },
+    "Death Eye":{
+        "Type": "C",
+        "Family": 8,
+        "Meat adjust": [24, -12]
+    },
+    "Dark Eye":{
+        "Type": "C",
+        "Family": 8,
+        "Meat adjust": [24, -12]
+    },
     "Daddy Longlegs":{},
     "Poisonous Spider":{},
     "Tarantula":{},
