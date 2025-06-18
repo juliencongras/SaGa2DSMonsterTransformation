@@ -2,347 +2,416 @@
     "Enoki Mimic":{
         "Type": "A",
         "Family": 0,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 1
     },
     "Shiitake Mimic":{
         "Type": "A",
         "Family": 0,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 5
     },
     "Shimeji Mimic":{
         "Type": "A",
         "Family": 0,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 6
     },
     "Maitake Mimic":{
         "Type": "A",
         "Family": 0,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 10
     },
     "Matsutake Mimic":{
         "Type": "A",
         "Family": 0,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 11
     },
     "Pansy":{
         "Type": "B",
         "Family": 1,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 2
     },
     "Poison Flower":{
         "Type": "B",
         "Family": 1,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 6
     },
     "Fire Flower":{
         "Type": "B",
         "Family": 1,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 9
     },
     "Sunflower":{
         "Type": "B",
         "Family": 1,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 10
     },
     "Black Rose":{
         "Type": "B",
         "Family": 1,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 11
     },
     "Hell Flower":{
         "Type": "B",
         "Family": 1,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 9
     },
     "Live Oak":{
         "Type": "C",
         "Family": 2,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 4
     },
     "Sequoia":{
         "Type": "C",
         "Family": 2,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 5
     },
     "Treant":{
         "Type": "C",
         "Family": 2,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 7
     },
     "Jumon Sugi":{
         "Type": "C",
         "Family": 2,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 10
     },
     "Yggdrasil":{
         "Type": "C",
         "Family": 2,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 11
     },
     "Dark Ash":{
         "Type": "C",
         "Family": 2,
-        "Meat adjust": [18, -18]
+        "Meat adjust": [18, -18],
+        "Level": 9
     },
     "Pebble":{
         "Type": "A",
         "Family": 3,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 2
     },
     "Stone":{
         "Type": "A",
         "Family": 3,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 3
     },
     "Rock":{
         "Type": "A",
         "Family": 3,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 7
     },
     "Boulder":{
         "Type": "A",
         "Family": 3,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 10
     },
     "Earth":{
         "Type": "A",
         "Family": 3,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 11
     },
     "Death Roc":{
         "Type": "A",
         "Family": 3,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 9
     },
     "Wood Golem":{
         "Type": "B",
         "Family": 4,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 3
     },
     "Clay Golem":{
         "Type": "B",
         "Family": 4,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 5
     },
     "Stone Golem":{
         "Type": "B",
         "Family": 4,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 7
     },
     "Iron Golem":{
         "Type": "B",
         "Family": 4,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 10
     },
     "Daimajin":{
         "Type": "B",
         "Family": 4,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 11
     },
     "Hell's Gatekeeper":{
         "Type": "B",
         "Family": 4,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 9
     },
     "Durandal":{
         "Type": "C",
         "Family": 5,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 4
     },
     "Caladbolg":{
         "Type": "C",
         "Family": 5,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 7
     },
     "Answerer":{
         "Type": "C",
         "Family": 5,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 8
     },
     "Mournblade":{
         "Type": "C",
         "Family": 5,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 10
     },
     "Stormbringer":{
         "Type": "C",
         "Family": 5,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 11
     },
     "Devil's Sword":{
         "Type": "C",
         "Family": 5,
-        "Meat adjust": [21, -15]
+        "Meat adjust": [21, -15],
+        "Level": 9
     },
     "Slime":{
         "Type": "A",
         "Family": 6,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 1
     },
     "Green Slime":{
         "Type": "A",
         "Family": 6,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 2
     },
     "Yellow Jelly":{
         "Type": "A",
         "Family": 6,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 4
     },
     "Blue Gel":{
         "Type": "A",
         "Family": 6,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 6
     },
     "Black Pudding":{
         "Type": "A",
         "Family": 6,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 10
     },
     "Super Slime":{
         "Type": "A",
         "Family": 6,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 11
     },
     "Dark Slime":{
         "Type": "A",
         "Family": 6,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 10
     },
     "Earthworm":{
         "Type": "B",
         "Family": 7,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 3
     },
     "Poison Worm":{
         "Type": "B",
         "Family": 7,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 5
     },
     "Lava Worm":{
         "Type": "B",
         "Family": 7,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 8
     },
     "Sand Worm":{
         "Type": "B",
         "Family": 7,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 10
     },
     "Abyss Worm":{
         "Type": "B",
         "Family": 7,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 11
     },
     "Big Eyeball":{
         "Type": "C",
         "Family": 8,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 4
     },
     "Gazer":{
         "Type": "C",
         "Family": 8,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 7
     },
     "Watcher":{
         "Type": "C",
         "Family": 8,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 9
     },
     "Evil Eye":{
         "Type": "C",
         "Family": 8,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 10
     },
     "Death Eye":{
         "Type": "C",
         "Family": 8,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 11
     },
     "Dark Eye":{
         "Type": "C",
         "Family": 8,
-        "Meat adjust": [24, -12]
+        "Meat adjust": [24, -12],
+        "Level": 9
     },
     "Daddy Longlegs":{
         "Type": "A",
         "Family": 9,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 1
     },
     "Poisonous Spider":{
         "Type": "A",
         "Family": 9,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 4
     },
     "Tarantula":{
         "Type": "A",
         "Family": 9,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 7
     },
     "Ushi-oni":{
         "Type": "A",
         "Family": 9,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 10
     },
     "Arachne":{
         "Type": "A",
         "Family": 9,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 11
     },
     "Large Beetle":{
         "Type": "B",
         "Family": 10,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 2
     },
     "Scarab Beetle":{
         "Type": "B",
         "Family": 10,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 5
     },
     "Antlion":{
         "Type": "B",
         "Family": 10,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 6
     },
     "Hell Stag Beetle":{
         "Type": "B",
         "Family": 10,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 10
     },
     "Scarab":{
         "Type": "B",
         "Family": 10,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 11
     },
     "Poison Moth":{
         "Type": "C",
         "Family": 11,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 4
     },
     "Vampire Butterfly":{
         "Type": "C",
         "Family": 11,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 6
     },
     "Fire Moth":{
         "Type": "C",
         "Family": 11,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 8
     },
     "Hades Butterfly":{
         "Type": "C",
         "Family": 11,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 10
     },
     "Madame Butterfly":{
         "Type": "C",
         "Family": 11,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 11
     },
     "Death Butterfly":{
         "Type": "C",
         "Family": 11,
-        "Meat adjust": [27, -9]
+        "Meat adjust": [27, -9],
+        "Level": 9
     },
     "Octopus":{
         "Type": "A",
