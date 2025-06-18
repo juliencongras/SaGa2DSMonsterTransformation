@@ -264,188 +264,924 @@
         "Family": 8,
         "Meat adjust": [24, -12]
     },
-    "Daddy Longlegs":{},
-    "Poisonous Spider":{},
-    "Tarantula":{},
-    "Ushi-oni":{},
-    "Arachne":{},
-    "Large Beetle":{},
-    "Scarab Beetle":{},
-    "Antlion":{},
-    "Hell Stag Beetle":{},
-    "Scarab":{},
-    "Poison Moth":{},
-    "Vampire Butterfly":{},
-    "Fire Moth":{},
-    "Hades Butterfly":{},
-    "Madame Butterfly":{},
-    "Death Butterfly":{},
-    "Octopus":{},
-    "Rainfall Slug":{},
-    "Ammonite":{},
-    "King Squid":{},
-    "Kraken":{},
-    "Devil Fish":{},
-    "Barracuda":{},
-    "Piranha":{},
-    "Hammerhead":{},
-    "Gun Fish":{},
-    "Leviathan":{},
-    "Poseidon":{},
-    "Coconut Crab":{},
-    "Hermit Crab":{},
-    "Ice Lobster":{},
-    "Kick Crab":{},
-    "Dagon":{},
-    "Watatsumi":{},
-    "Toad":{},
-    "Poisonous Frog":{},
-    "Four-Six Toad":{},
-    "Qing Wa Shen":{},
-    "Heqet":{},
-    "Black Frog":{},
-    "Rat Snake":{},
-    "Sidewinder":{},
-    "Orochi":{},
-    "Hydra":{},
-    "Jormungandr":{},
-    "Tortoise":{},
-    "Land Turtle":{},
-    "Adamant Shell":{},
-    "Dragon Turtle":{},
-    "Genbu":{},
-    "Dark Genbu":{},
-    "Newt":{},
-    "Chameleon":{},
-    "Komodo Dragon":{},
-    "Salamander":{},
-    "Basilisk":{},
-    "Cross Basilisk":{},
-    "Rhinosaurus":{},
-    "Triceratops":{},
-    "Stegosaurus":{},
-    "Tyrannosaurus":{},
-    "Behemoth":{},
-    "Black Saurus":{},
-    "King Behemoth":{},
-    "Minidragon":{},
-    "Baby Dragon":{},
-    "Dragon Kid":{},
-    "Dragon":{},
-    "Dragon Sage":{},
-    "Seiryu":{},
-    "Dark Dragon":{},
-    "Dark Soryu":{},
-    "Rhamphorhynchus":{},
-    "Pteranodon":{},
-    "Wyvern":{},
-    "Wyrm":{},
-    "Feilong":{},
-    "Hell Wing":{},
-    "Dive Eagle":{},
-    "Thunder Bird":{},
-    "Cockatrice":{},
-    "Roc":{},
-    "Suzaku":{},
-    "Dark Suzaku":{},
-    "Hell Bird":{},
-    "Raven":{},
-    "Harpy":{},
-    "Crow Tengu":{},
-    "Garuda":{},
-    "Nike":{},
-    "Fallen Angel":{},
-    "Jaguar":{},
-    "Sabertooth Tiger":{},
-    "Snow Leopard":{},
-    "Black Cat":{},
-    "Byakko":{},
-    "Black Tiger":{},
-    "Dark Byakko":{},
-    "Silver":{},
-    "Each Uisge":{},
-    "Nightmare":{},
-    "Sleipnir":{},
-    "Unicorn":{},
-    "Dark Horse":{},
-    "Pegasus":{},
-    "Gryphon":{},
-    "Manticore":{},
-    "Chimera":{},
-    "Sphinx":{},
-    "Kirin":{},
-    "Ultima Chimera":{},
-    "Flyman":{},
-    "Bee Woman":{},
-    "Mosquito":{},
-    "Semihuman":{},
-    "Mantis King":{},
-    "Dark Mantis":{},
-    "Wererat":{},
-    "Werewolf":{},
-    "Catgirl":{},
-    "Rakshasa":{},
-    "Anubis":{},
-    "Medusa":{},
-    "Lamia":{},
-    "Naga":{},
-    "Scylla":{},
-    "Marilith":{},
-    "Dark Lamia":{},
-    "Goblin":{},
-    "Oni":{},
-    "Ogre":{},
-    "Giant":{},
-    "Susano'o":{},
-    "Dark Goblin":{},
-    "Goblin King":{},
-    "Troll":{},
-    "Familiar":{},
-    "Imp":{},
-    "Fiend":{},
-    "Demon":{},
-    "Demon Lord":{},
-    "Astaroth":{},
-    "Black Devil":{},
-    "Sprite":{},
-    "Faeri":{},
-    "Nymph":{},
-    "Sylph":{},
-    "Titania":{},
-    "Dark Fairy":{},
-    "Cruel Sprite":{},
-    "Skeleton":{},
-    "Red Bones":{},
-    "Skull Knight":{},
-    "Death Knight":{},
-    "Lich":{},
-    "Magician's Soul":{},
-    "Warrior's Soul":{},
-    "Zombie":{},
-    "Ghoul":{},
-    "Ghast":{},
-    "Wight":{},
-    "Revenant":{},
-    "Evil Revenant":{},
-    "Apparition":{},
-    "Phantom":{},
-    "Wraith":{},
-    "Spectre":{},
-    "Ghost":{},
-    "Hero's Soul":{},
-    "Leucocyte":{},
-    "Macrophage":{},
-    "Cancer Cell":{},
-    "Man-Eating Amoeba":{},
-    "Influenza B":{},
-    "Mystery Disease":{},
-    "Giant Virus":{},
-    "Cyber Virus":{},
-    "Odin Crow":{},
-    "Fenrir":{},
-    "Hades Beast":{},
-    "Sun Crow":{},
-    "Tianlong":{},
-    "Dragon God":{},
-    "Yellow Dragon of Hades":{}
+    "Daddy Longlegs":{
+        "Type": "A",
+        "Family": 9,
+        "Meat adjust": [27, -9]
+    },
+    "Poisonous Spider":{
+        "Type": "A",
+        "Family": 9,
+        "Meat adjust": [27, -9]
+    },
+    "Tarantula":{
+        "Type": "A",
+        "Family": 9,
+        "Meat adjust": [27, -9]
+    },
+    "Ushi-oni":{
+        "Type": "A",
+        "Family": 9,
+        "Meat adjust": [27, -9]
+    },
+    "Arachne":{
+        "Type": "A",
+        "Family": 9,
+        "Meat adjust": [27, -9]
+    },
+    "Large Beetle":{
+        "Type": "B",
+        "Family": 10,
+        "Meat adjust": [27, -9]
+    },
+    "Scarab Beetle":{
+        "Type": "B",
+        "Family": 10,
+        "Meat adjust": [27, -9]
+    },
+    "Antlion":{
+        "Type": "B",
+        "Family": 10,
+        "Meat adjust": [27, -9]
+    },
+    "Hell Stag Beetle":{
+        "Type": "B",
+        "Family": 10,
+        "Meat adjust": [27, -9]
+    },
+    "Scarab":{
+        "Type": "B",
+        "Family": 10,
+        "Meat adjust": [27, -9]
+    },
+    "Poison Moth":{
+        "Type": "C",
+        "Family": 11,
+        "Meat adjust": [27, -9]
+    },
+    "Vampire Butterfly":{
+        "Type": "C",
+        "Family": 11,
+        "Meat adjust": [27, -9]
+    },
+    "Fire Moth":{
+        "Type": "C",
+        "Family": 11,
+        "Meat adjust": [27, -9]
+    },
+    "Hades Butterfly":{
+        "Type": "C",
+        "Family": 11,
+        "Meat adjust": [27, -9]
+    },
+    "Madame Butterfly":{
+        "Type": "C",
+        "Family": 11,
+        "Meat adjust": [27, -9]
+    },
+    "Death Butterfly":{
+        "Type": "C",
+        "Family": 11,
+        "Meat adjust": [27, -9]
+    },
+    "Octopus":{
+        "Type": "A",
+        "Family": 12,
+        "Meat adjust": [30, -6]
+    },
+    "Rainfall Slug":{
+        "Type": "A",
+        "Family": 12,
+        "Meat adjust": [30, -6]
+    },
+    "Ammonite":{
+        "Type": "A",
+        "Family": 12,
+        "Meat adjust": [30, -6]
+    },
+    "King Squid":{
+        "Type": "A",
+        "Family": 12,
+        "Meat adjust": [30, -6]
+    },
+    "Kraken":{
+        "Type": "A",
+        "Family": 12,
+        "Meat adjust": [30, -6]
+    },
+    "Devil Fish":{
+        "Type": "A",
+        "Family": 12,
+        "Meat adjust": [30, -6]
+    },
+    "Barracuda":{
+        "Type": "B",
+        "Family": 13,
+        "Meat adjust": [30, -6]
+    },
+    "Piranha":{
+        "Type": "B",
+        "Family": 13,
+        "Meat adjust": [30, -6]
+    },
+    "Hammerhead":{
+        "Type": "B",
+        "Family": 13,
+        "Meat adjust": [30, -6]
+    },
+    "Gun Fish":{
+        "Type": "B",
+        "Family": 13,
+        "Meat adjust": [30, -6]
+    },
+    "Leviathan":{
+        "Type": "B",
+        "Family": 13,
+        "Meat adjust": [30, -6]
+    },
+    "Poseidon":{
+        "Type": "B",
+        "Family": 13,
+        "Meat adjust": [30, -6]
+    },
+    "Coconut Crab":{
+        "Type": "C",
+        "Family": 14,
+        "Meat adjust": [30, -6]
+    },
+    "Hermit Crab":{
+        "Type": "C",
+        "Family": 14,
+        "Meat adjust": [30, -6]
+    },
+    "Ice Lobster":{
+        "Type": "C",
+        "Family": 14,
+        "Meat adjust": [30, -6]
+    },
+    "Kick Crab":{
+        "Type": "C",
+        "Family": 14,
+        "Meat adjust": [30, -6]
+    },
+    "Dagon":{
+        "Type": "C",
+        "Family": 14,
+        "Meat adjust": [30, -6]
+    },
+    "Watatsumi":{
+        "Type": "C",
+        "Family": 14,
+        "Meat adjust": [30, -6]
+    },
+    "Toad":{
+        "Type": "A",
+        "Family": 15,
+        "Meat adjust": [33, -3]
+    },
+    "Poisonous Frog":{
+        "Type": "A",
+        "Family": 15,
+        "Meat adjust": [33, -3]
+    },
+    "Four-Six Toad":{
+        "Type": "A",
+        "Family": 15,
+        "Meat adjust": [33, -3]
+    },
+    "Qing Wa Shen":{
+        "Type": "A",
+        "Family": 15,
+        "Meat adjust": [33, -3]
+    },
+    "Heqet":{
+        "Type": "A",
+        "Family": 15,
+        "Meat adjust": [33, -3]
+    },
+    "Black Frog":{
+        "Type": "A",
+        "Family": 15,
+        "Meat adjust": [33, -3]
+    },
+    "Rat Snake":{
+        "Type": "B",
+        "Family": 16,
+        "Meat adjust": [33, -3]
+    },
+    "Sidewinder":{
+        "Type": "B",
+        "Family": 16,
+        "Meat adjust": [33, -3]
+    },
+    "Orochi":{
+        "Type": "B",
+        "Family": 16,
+        "Meat adjust": [33, -3]
+    },
+    "Hydra":{
+        "Type": "B",
+        "Family": 16,
+        "Meat adjust": [33, -3]
+    },
+    "Jormungandr":{
+        "Type": "B",
+        "Family": 16,
+        "Meat adjust": [33, -3]
+    },
+    "Tortoise":{
+        "Type": "C",
+        "Family": 17,
+        "Meat adjust": [33, -3]
+    },
+    "Land Turtle":{
+        "Type": "C",
+        "Family": 17,
+        "Meat adjust": [33, -3]
+    },
+    "Adamant Shell":{
+        "Type": "C",
+        "Family": 17,
+        "Meat adjust": [33, -3]
+    },
+    "Dragon Turtle":{
+        "Type": "C",
+        "Family": 17,
+        "Meat adjust": [33, -3]
+    },
+    "Genbu":{
+        "Type": "C",
+        "Family": 17,
+        "Meat adjust": [33, -3]
+    },
+    "Dark Genbu":{
+        "Type": "C",
+        "Family": 17,
+        "Meat adjust": [33, -3]
+    },
+    "Newt":{
+        "Type": "A",
+        "Family": 18,
+        "Meat adjust": [3, -33]
+    },
+    "Chameleon":{
+        "Type": "A",
+        "Family": 18,
+        "Meat adjust": [3, -33]
+    },
+    "Komodo Dragon":{
+        "Type": "A",
+        "Family": 18,
+        "Meat adjust": [3, -33]
+    },
+    "Salamander":{
+        "Type": "A",
+        "Family": 18,
+        "Meat adjust": [3, -33]
+    },
+    "Basilisk":{
+        "Type": "A",
+        "Family": 18,
+        "Meat adjust": [3, -33]
+    },
+    "Cross Basilisk":{
+        "Type": "A",
+        "Family": 18,
+        "Meat adjust": [3, -33]
+    },
+    "Rhinosaurus":{
+        "Type": "B",
+        "Family": 19,
+        "Meat adjust": [3, -33]
+    },
+    "Triceratops":{
+        "Type": "B",
+        "Family": 19,
+        "Meat adjust": [3, -33]
+    },
+    "Stegosaurus":{
+        "Type": "B",
+        "Family": 19,
+        "Meat adjust": [3, -33]
+    },
+    "Tyrannosaurus":{
+        "Type": "B",
+        "Family": 19,
+        "Meat adjust": [3, -33]
+    },
+    "Behemoth":{
+        "Type": "B",
+        "Family": 19,
+        "Meat adjust": [3, -33]
+    },
+    "Black Saurus":{
+        "Type": "B",
+        "Family": 19,
+        "Meat adjust": [3, -33]
+    },
+    "King Behemoth":{
+        "Type": "B",
+        "Family": 19,
+        "Meat adjust": [3, -33]
+    },
+    "Minidragon":{
+        "Type": "B",
+        "Family": 20,
+        "Meat adjust": [3, -33]
+    },
+    "Baby Dragon":{
+        "Type": "C",
+        "Family": 20,
+        "Meat adjust": [3, -33]
+    },
+    "Dragon Kid":{
+        "Type": "C",
+        "Family": 20,
+        "Meat adjust": [3, -33]
+    },
+    "Dragon":{
+        "Type": "C",
+        "Family": 20,
+        "Meat adjust": [3, -33]
+    },
+    "Dragon Sage":{
+        "Type": "C",
+        "Family": 20,
+        "Meat adjust": [3, -33]
+    },
+    "Seiryu":{
+        "Type": "C",
+        "Family": 20,
+        "Meat adjust": [3, -33]
+    },
+    "Dark Dragon":{
+        "Type": "C",
+        "Family": 20,
+        "Meat adjust": [3, -33]
+    },
+    "Dark Soryu":{
+        "Type": "C",
+        "Family": 20,
+        "Meat adjust": [3, -33]
+    },
+    "Rhamphorhynchus":{
+        "Type": "A",
+        "Family": 21,
+        "Meat adjust": [6, -30]
+    },
+    "Pteranodon":{
+        "Type": "A",
+        "Family": 21,
+        "Meat adjust": [6, -30]
+    },
+    "Wyvern":{
+        "Type": "A",
+        "Family": 21,
+        "Meat adjust": [6, -30]
+    },
+    "Wyrm":{
+        "Type": "A",
+        "Family": 21,
+        "Meat adjust": [6, -30]
+    },
+    "Feilong":{
+        "Type": "A",
+        "Family": 21,
+        "Meat adjust": [6, -30]
+    },
+    "Hell Wing":{
+        "Type": "A",
+        "Family": 21,
+        "Meat adjust": [6, -30]
+    },
+    "Dive Eagle":{
+        "Type": "B",
+        "Family": 22,
+        "Meat adjust": [6, -30]
+    },
+    "Thunder Bird":{
+        "Type": "B",
+        "Family": 22,
+        "Meat adjust": [6, -30]
+    },
+    "Cockatrice":{
+        "Type": "B",
+        "Family": 22,
+        "Meat adjust": [6, -30]
+    },
+    "Roc":{
+        "Type": "B",
+        "Family": 22,
+        "Meat adjust": [6, -30]
+    },
+    "Suzaku":{
+        "Type": "B",
+        "Family": 22,
+        "Meat adjust": [6, -30]
+    },
+    "Dark Suzaku":{
+        "Type": "B",
+        "Family": 22,
+        "Meat adjust": [6, -30]
+    },
+    "Hell Bird":{
+        "Type": "B",
+        "Family": 22,
+        "Meat adjust": [6, -30]
+    },
+    "Raven":{
+        "Type": "C",
+        "Family": 23,
+        "Meat adjust": [6, -30]
+    },
+    "Harpy":{
+        "Type": "C",
+        "Family": 23,
+        "Meat adjust": [6, -30]
+    },
+    "Crow Tengu":{
+        "Type": "C",
+        "Family": 23,
+        "Meat adjust": [6, -30]
+    },
+    "Garuda":{
+        "Type": "C",
+        "Family": 23,
+        "Meat adjust": [6, -30]
+    },
+    "Nike":{
+        "Type": "C",
+        "Family": 23,
+        "Meat adjust": [6, -30]
+    },
+    "Fallen Angel":{
+        "Type": "C",
+        "Family": 23,
+        "Meat adjust": [6, -30]
+    },
+    "Jaguar":{
+        "Type": "A",
+        "Family": 24,
+        "Meat adjust": [9, -27]
+    },
+    "Sabertooth Tiger":{
+        "Type": "A",
+        "Family": 24,
+        "Meat adjust": [9, -27]
+    },
+    "Snow Leopard":{
+        "Type": "A",
+        "Family": 24,
+        "Meat adjust": [9, -27]
+    },
+    "Black Cat":{
+        "Type": "A",
+        "Family": 24,
+        "Meat adjust": [9, -27]
+    },
+    "Byakko":{
+        "Type": "A",
+        "Family": 24,
+        "Meat adjust": [9, -27]
+    },
+    "Black Tiger":{
+        "Type": "A",
+        "Family": 24,
+        "Meat adjust": [9, -27]
+    },
+    "Dark Byakko":{
+        "Type": "A",
+        "Family": 24,
+        "Meat adjust": [9, -27]
+    },
+    "Silver":{
+        "Type": "B",
+        "Family": 25,
+        "Meat adjust": [9, -27]
+    },
+    "Each Uisge":{
+        "Type": "B",
+        "Family": 25,
+        "Meat adjust": [9, -27]
+    },
+    "Nightmare":{
+        "Type": "B",
+        "Family": 25,
+        "Meat adjust": [9, -27]
+    },
+    "Sleipnir":{
+        "Type": "B",
+        "Family": 25,
+        "Meat adjust": [9, -27]
+    },
+    "Unicorn":{
+        "Type": "B",
+        "Family": 25,
+        "Meat adjust": [9, -27]
+    },
+    "Dark Horse":{
+        "Type": "B",
+        "Family": 25,
+        "Meat adjust": [9, -27]
+    },
+    "Pegasus":{
+        "Type": "B",
+        "Family": 25,
+        "Meat adjust": [9, -27]
+    },
+    "Gryphon":{
+        "Type": "C",
+        "Family": 26,
+        "Meat adjust": [9, -27]
+    },
+    "Manticore":{
+        "Type": "C",
+        "Family": 26,
+        "Meat adjust": [9, -27]
+    },
+    "Chimera":{
+        "Type": "C",
+        "Family": 26,
+        "Meat adjust": [9, -27]
+    },
+    "Sphinx":{
+        "Type": "C",
+        "Family": 26,
+        "Meat adjust": [9, -27]
+    },
+    "Kirin":{
+        "Type": "C",
+        "Family": 26,
+        "Meat adjust": [9, -27]
+    },
+    "Ultima Chimera":{
+        "Type": "C",
+        "Family": 26,
+        "Meat adjust": [9, -27]
+    },
+    "Flyman":{
+        "Type": "A",
+        "Family": 27,
+        "Meat adjust": [12, -24]
+    },
+    "Bee Woman":{
+        "Type": "A",
+        "Family": 27,
+        "Meat adjust": [12, -24]
+    },
+    "Mosquito":{
+        "Type": "A",
+        "Family": 27,
+        "Meat adjust": [12, -24]
+    },
+    "Semihuman":{
+        "Type": "A",
+        "Family": 27,
+        "Meat adjust": [12, -24]
+    },
+    "Mantis King":{
+        "Type": "A",
+        "Family": 27,
+        "Meat adjust": [12, -24]
+    },
+    "Dark Mantis":{
+        "Type": "A",
+        "Family": 27,
+        "Meat adjust": [12, -24]
+    },
+    "Wererat":{
+        "Type": "B",
+        "Family": 28,
+        "Meat adjust": [12, -24]
+    },
+    "Werewolf":{
+        "Type": "B",
+        "Family": 28,
+        "Meat adjust": [12, -24]
+    },
+    "Catgirl":{
+        "Type": "B",
+        "Family": 28,
+        "Meat adjust": [12, -24]
+    },
+    "Rakshasa":{
+        "Type": "B",
+        "Family": 28,
+        "Meat adjust": [12, -24]
+    },
+    "Anubis":{
+        "Type": "B",
+        "Family": 28,
+        "Meat adjust": [12, -24]
+    },
+    "Medusa":{
+        "Type": "C",
+        "Family": 29,
+        "Meat adjust": [12, -24]
+    },
+    "Lamia":{
+        "Type": "C",
+        "Family": 29,
+        "Meat adjust": [12, -24]
+    },
+    "Naga":{
+        "Type": "C",
+        "Family": 29,
+        "Meat adjust": [12, -24]
+    },
+    "Scylla":{
+        "Type": "C",
+        "Family": 29,
+        "Meat adjust": [12, -24]
+    },
+    "Marilith":{
+        "Type": "C",
+        "Family": 29,
+        "Meat adjust": [12, -24]
+    },
+    "Dark Lamia":{
+        "Type": "C",
+        "Family": 29,
+        "Meat adjust": [12, -24]
+    },
+    "Goblin":{
+        "Type": "A",
+        "Family": 30,
+        "Meat adjust": [15, -21]
+    },
+    "Oni":{
+        "Type": "A",
+        "Family": 30,
+        "Meat adjust": [15, -21]
+    },
+    "Ogre":{
+        "Type": "A",
+        "Family": 30,
+        "Meat adjust": [15, -21]
+    },
+    "Giant":{
+        "Type": "A",
+        "Family": 30,
+        "Meat adjust": [15, -21]
+    },
+    "Susano'o":{
+        "Type": "A",
+        "Family": 30,
+        "Meat adjust": [15, -21]
+    },
+    "Dark Goblin":{
+        "Type": "A",
+        "Family": 30,
+        "Meat adjust": [15, -21]
+    },
+    "Goblin King":{
+        "Type": "A",
+        "Family": 30,
+        "Meat adjust": [15, -21]
+    },
+    "Troll":{
+        "Type": "A",
+        "Family": 30,
+        "Meat adjust": [15, -21]
+    },
+    "Familiar":{
+        "Type": "B",
+        "Family": 31,
+        "Meat adjust": [15, -21]
+    },
+    "Imp":{
+        "Type": "B",
+        "Family": 31,
+        "Meat adjust": [15, -21]
+    },
+    "Fiend":{
+        "Type": "B",
+        "Family": 31,
+        "Meat adjust": [15, -21]
+    },
+    "Demon":{
+        "Type": "B",
+        "Family": 31,
+        "Meat adjust": [15, -21]
+    },
+    "Demon Lord":{
+        "Type": "B",
+        "Family": 31,
+        "Meat adjust": [15, -21]
+    },
+    "Astaroth":{
+        "Type": "B",
+        "Family": 31,
+        "Meat adjust": [15, -21]
+    },
+    "Black Devil":{
+        "Type": "B",
+        "Family": 31,
+        "Meat adjust": [15, -21]
+    },
+    "Sprite":{
+        "Type": "C",
+        "Family": 32,
+        "Meat adjust": [15, -21]
+    },
+    "Faeri":{
+        "Type": "C",
+        "Family": 32,
+        "Meat adjust": [15, -21]
+    },
+    "Nymph":{
+        "Type": "C",
+        "Family": 32,
+        "Meat adjust": [15, -21]
+    },
+    "Sylph":{
+        "Type": "C",
+        "Family": 32,
+        "Meat adjust": [15, -21]
+    },
+    "Titania":{
+        "Type": "C",
+        "Family": 32,
+        "Meat adjust": [15, -21]
+    },
+    "Dark Fairy":{
+        "Type": "C",
+        "Family": 32,
+        "Meat adjust": [15, -21]
+    },
+    "Cruel Sprite":{
+        "Type": "C",
+        "Family": 32,
+        "Meat adjust": [15, -21]
+    },
+    "Skeleton":{
+        "Type": "A",
+        "Family": 33,
+        "Meat adjust": [18, -18]
+    },
+    "Red Bones":{
+        "Type": "A",
+        "Family": 33,
+        "Meat adjust": [18, -18]
+    },
+    "Skull Knight":{
+        "Type": "A",
+        "Family": 33,
+        "Meat adjust": [18, -18]
+    },
+    "Death Knight":{
+        "Type": "A",
+        "Family": 33,
+        "Meat adjust": [18, -18]
+    },
+    "Lich":{
+        "Type": "A",
+        "Family": 33,
+        "Meat adjust": [18, -18]
+    },
+    "Magician's Soul":{
+        "Type": "A",
+        "Family": 33,
+        "Meat adjust": [18, -18]
+    },
+    "Warrior's Soul":{
+        "Type": "A",
+        "Family": 33,
+        "Meat adjust": [18, -18]
+    },
+    "Zombie":{
+        "Type": "B",
+        "Family": 34,
+        "Meat adjust": [18, -18]
+    },
+    "Ghoul":{
+        "Type": "B",
+        "Family": 34,
+        "Meat adjust": [18, -18]
+    },
+    "Ghast":{
+        "Type": "B",
+        "Family": 34,
+        "Meat adjust": [18, -18]
+    },
+    "Wight":{
+        "Type": "B",
+        "Family": 34,
+        "Meat adjust": [18, -18]
+    },
+    "Revenant":{
+        "Type": "B",
+        "Family": 34,
+        "Meat adjust": [18, -18]
+    },
+    "Evil Revenant":{
+        "Type": "B",
+        "Family": 34,
+        "Meat adjust": [18, -18]
+    },
+    "Apparition":{
+        "Type": "C",
+        "Family": 35,
+        "Meat adjust": [18, -18]
+    },
+    "Phantom":{
+        "Type": "C",
+        "Family": 35,
+        "Meat adjust": [18, -18]
+    },
+    "Wraith":{
+        "Type": "C",
+        "Family": 35,
+        "Meat adjust": [18, -18]
+    },
+    "Spectre":{
+        "Type": "C",
+        "Family": 35,
+        "Meat adjust": [18, -18]
+    },
+    "Ghost":{
+        "Type": "C",
+        "Family": 35,
+        "Meat adjust": [18, -18]
+    },
+    "Hero's Soul":{
+        "Type": "C",
+        "Family": 35,
+        "Meat adjust": [18, -18]
+    },
+    "Leucocyte":{
+        "Type": "A",
+        "Family": "Extra 1",
+        "Meat adjust": [24, -12]
+    },
+    "Macrophage":{
+        "Type": "A",
+        "Family": "Extra 1",
+        "Meat adjust": [24, -12]
+    },
+    "Cancer Cell":{
+        "Type": "A",
+        "Family": "Extra 1",
+        "Meat adjust": [24, -12]
+    },
+    "Man-Eating Amoeba":{
+        "Type": "A",
+        "Family": "Extra 1",
+        "Meat adjust": [24, -12]
+    },
+    "Influenza B":{
+        "Type": "A",
+        "Family": "Extra 1",
+        "Meat adjust": [24, -12]
+    },
+    "Mystery Disease":{
+        "Type": "A",
+        "Family": "Extra 1",
+        "Meat adjust": [24, -12]
+    },
+    "Giant Virus":{
+        "Type": "A",
+        "Family": "Extra 1",
+        "Meat adjust": [24, -12]
+    },
+    "Cyber Virus":{
+        "Type": "A",
+        "Family": "Extra 1",
+        "Meat adjust": [24, -12]
+    },
+    "Odin Crow":{
+        "Type": "A",
+        "Family": "Extra 2",
+        "Meat adjust": [9, -27]
+    },
+    "Fenrir":{
+        "Type": "A",
+        "Family": "Extra 2",
+        "Meat adjust": [9, -27]
+    },
+    "Hades Beast":{
+        "Type": "A",
+        "Family": "Extra 2",
+        "Meat adjust": [9, -27]
+    },
+    "Sun Crow":{
+        "Type": "A",
+        "Family": "Extra 2",
+        "Meat adjust": [9, -27]
+    },
+    "Tianlong":{
+        "Type": "C",
+        "Family": "Extra 3",
+        "Meat adjust": [3, -33]
+    },
+    "Dragon God":{
+        "Type": "C",
+        "Family": "Extra 3",
+        "Meat adjust": [3, -33]
+    },
+    "Yellow Dragon of Hades":{
+        "Type": "C",
+        "Family": "Extra 3",
+        "Meat adjust": [3, -33]
+    }
 }}
