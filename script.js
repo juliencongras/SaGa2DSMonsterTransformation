@@ -1423,9 +1423,23 @@ var monster_data_json = [{
     }
 }]
 
+const monster_table = document.getElementById("monster_table")
+
 for ([key, value] of Object.entries(monster_data_json[0])){
-    console.log(`${key}`)
+    const new_row = document.createElement("tr")
+    var cell_count = 1
     for ([x_key, x_value] of Object.entries(value)){
-        console.log(`${x_key}`,": ",`${x_value}`)
+        const new_cell = document.createElement("td")
+        const cell_content = document.createTextNode(`${x_value}`)
+        if(cell_count == 4){
+            const monster_name_cell = document.createTextNode(`${key}`)
+            const monster_cell = document.createElement("td")
+            monster_cell.appendChild(monster_name_cell)
+            new_row.appendChild(monster_cell)
+        }
+        new_cell.appendChild(cell_content)
+        new_row.appendChild(new_cell)
+        cell_count++
     }
+    monster_table.appendChild(new_row)
 }
