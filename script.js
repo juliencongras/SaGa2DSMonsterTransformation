@@ -1492,7 +1492,9 @@ function monster_transformation_calculation(){
         higher_level = meat_level
     }
 
-
+    for(x of monster_table.rows){
+        console.log(x[1])
+    }
 
     console.log(new_family, higher_level)
 }
