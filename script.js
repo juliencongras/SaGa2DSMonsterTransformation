@@ -1453,3 +1453,11 @@ for ([key, value] of Object.entries(monster_data_json[0])){
     monster_select_current_monster.add(new_option)
     monster_select_monster_meat.add(new_option_two)
 }
+
+function monster_transformation_calculation(){
+    var monster_index = monster_select_current_monster.selectedIndex
+    var meat_index = monster_select_monster_meat.selectedIndex
+    var monster_familly = monster_table.children[monster_index + 1].cells[1].textContent
+    var meat_adjust_value = monster_table.children[meat_index + 1].cells[2].textContent
+    console.log(meat_adjust_value)
+}
