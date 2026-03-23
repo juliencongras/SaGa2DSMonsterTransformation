@@ -1,0 +1,29 @@
+The calculations to determine what monster you transform to can be difficult to understand. I'll break it down in various steps. Monsters you start as are considered level 1.
+
+    Find the monster you currently are in the chart above. Find the number in the Family column.
+    Find the monster meat you are about to eat in the chart above. Find the number in the Meat Adj. column. You can use either number.
+    Add those numbers together. Next you need to check for a Type adjustment from the table below. You need to determine the type of monster you currently are as well as the type of meat you're eating from the chart above. If there's an adjustment needed add or subtract that adjustment.
+    	Meat Type
+    A	B	C
+    A eats...	0	0	+1
+    B eats...	-1	0	+1
+    C eats...	-1	0	0
+    If the number you have is 0-35 you simply need to find that number in the family column in the top table to find the line containing the monster you'll turn in to. If the number you have is 36 or above, subtract 36 from your number first, then consult the top table.
+    To determine which monster you turn into after finding out the new family from step 4 you need to look at the levels of both the monster you currently are and the meat of the monster you are eating. You want the higher level of the numbers. Check the line of the new family for that level of monster. If there is a monster of that level that is what you become. If there isn't a monster of that level, subtract 1 and search for a monster 1 level lower. If there is a monster of that level that is what you become. If there isn't a monster of that level you don't change forms, you simply keep your current monster form and replenish HP and skill usage. The exception to this is if the lowest level monster for the family you're changing to is of a higher level.
+
+    Skill Inheritance
+
+Skill Inheritance can occur when you meet certain criteria.
+
+    You have a skill that can be inherited.
+    You've transformed at least once prior.
+    Your new monster has room for another skill as you cannot inherit a skill if the new monster already has 8.
+    Your current monster or new monster is the same as the meat you are eating.
+    You are eating the same meat as what you ate to become your current monster (this appears to only apply to some families of meat).
+
+    Monster Variants
+
+You can become variant forms of monsters that have higher stats and better skills when you meet certain criteria.
+
+    You have to have transformed 3 times.
+    At least 2 of your previous 3 group types are next to each other. You can view monster groups in the top chart.
