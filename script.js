@@ -1424,6 +1424,8 @@ var monster_data_json = [{
 }]
 
 const monster_table = document.getElementById("monster_table")
+const monster_select_current_monster = document.getElementById("current_monster")
+const monster_select_monster_meat = document.getElementById("monster_meat")
 
 for ([key, value] of Object.entries(monster_data_json[0])){
     const new_row = document.createElement("tr")
@@ -1442,4 +1444,12 @@ for ([key, value] of Object.entries(monster_data_json[0])){
         cell_count++
     }
     monster_table.appendChild(new_row)
+    var new_option = document.createElement("option")
+    new_option.value = document.createTextNode(`${key}`).data
+    new_option.innerHTML = document.createTextNode(`${key}`).data
+    var new_option_two = document.createElement("option")
+    new_option_two.value = document.createTextNode(`${key}`).data
+    new_option_two.innerHTML = document.createTextNode(`${key}`).data
+    monster_select_current_monster.add(new_option)
+    monster_select_monster_meat.add(new_option_two)
 }
