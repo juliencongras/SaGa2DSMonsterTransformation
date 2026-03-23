@@ -1457,7 +1457,42 @@ for ([key, value] of Object.entries(monster_data_json[0])){
 function monster_transformation_calculation(){
     var monster_index = monster_select_current_monster.selectedIndex
     var meat_index = monster_select_monster_meat.selectedIndex
-    var monster_familly = monster_table.children[monster_index + 1].cells[1].textContent
+    var monster_familly = parseInt(monster_table.children[monster_index + 1].cells[1].textContent)
     var meat_adjust_value = monster_table.children[meat_index + 1].cells[2].textContent
-    console.log(meat_adjust_value)
+    var meat_adjust_array = JSON.parse("[" + meat_adjust_value + "]")
+    var current_monster_type = monster_table.children[monster_index + 1].cells[0].textContent
+    var target_monster_type = monster_table.children[meat_index + 1].cells[0].textContent
+    var new_temp_familly = monster_familly + meat_adjust_array[0]
+    var meat_type_modifier = 0
+    if (current_monster_type == "A" && target_monster_type == "C"){
+        meat_type_modifier += 1
+    }
+    if (current_monster_type == "B" && target_monster_type == "C"){
+        meat_type_modifier += 1
+    }
+    if (current_monster_type == "B" && target_monster_type == "A"){
+        meat_type_modifier -= 1
+    }
+    if (current_monster_type == "C" && target_monster_type == "A"){
+        meat_type_modifier -= 1
+    }
+    var new_familly = new_temp_familly + meat_type_modifier
+    
+    if (new_familly < 0){
+        new_familly = monster_familly + meat_adjust_array[1] + meat_type_modifier
+    }
+    if (new_familly >= 36){
+        new_familly -= 36
+    }
+
+    var current_monster_level = parseInt(monster_table.children[monster_index + 1].cells[4].textContent)
+    var meat_level = parseInt(monster_table.children[meat_index + 1].cells[4].textContent)
+    var higher_level = current_monster_level
+    if(meat_level > current_monster_level){
+        higher_level = meat_level
+    }
+
+    
+
+    console.log(new_familly, higher_level)
 }
